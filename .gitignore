@@ -8,3 +8,5 @@
 **.lock
 meta.json
 .vscode
+**.db
+**.pdf
